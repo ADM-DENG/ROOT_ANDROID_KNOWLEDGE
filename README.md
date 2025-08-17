@@ -1,2 +1,5 @@
 # ROOT_ANDROID_KNOWLEDGE
-安卓搞机知识库
+---
+# Generate by open AI
+
+* 安卓搞机知识库
